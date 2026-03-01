@@ -301,6 +301,10 @@ p {
     padding: 6rem 0;
   }
   
+  .profile {
+    align-items: center;
+  }
+
   .right-part {
     align-items: center;
   }
